@@ -152,7 +152,8 @@ WHERE row_num>1
 
 
 
-SELECT *
+--SELECT *
+DELETE*
 FROM PortfolioProject..NashvilleHousing
 
 ALTER TABLE PortfolioProject..NashvilleHousing
